@@ -8,3 +8,5 @@ To run the program: favipiravir_mutationbias_figure2()
 Please ask if you have any questions.
 
 If you want to run code like this for your own project, I would recommend dms_tools2 as a complete package.  https://jbloomlab.github.io/dms_tools2/index.html
+
+favipiravir_mutationbias_figure3() is the code used for making figure 3.  However the fasta files needed are not part of this directory as the files were too large to upload.  The raw sequences can be found at https://www.ebi.ac.uk/ena under project number PRJEB28478 or the fastas can be sent upon request.
